@@ -25,7 +25,7 @@ SECRET_KEY = '85)0^u3y19w5w#1ty20r)f!4_lg!7dpng&l)l^$srfg93_b^qp'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<rentkari>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'rentkari.pythonanywhere.com']
 
 
 # Application definition
